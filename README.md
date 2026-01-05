@@ -2,7 +2,7 @@
 
 **`Futuro Desenvolvedor Front-end`**
 
-👋 Olá! Me chamo Nycolas, tenho 23 anos e estou em transição de carreira para a área de desenvolvimento front-end.<br/>
+👋 Olá! Me chamo Nycolas, tenho 23 anos e sou desenvolvedor front-end.<br/>
 🚀 Atuo com foco em  HTML5, CSS3, JavaScript, JQuery, Sass, Less, Gulp, Bootstrap, GIT, Vue.js, TypeScript e React.<br/>
 📚 Atualmente, estou aprimorando minhas habilidades através de cursos e projetos práticos.<br/>
 🎯 Busco oportunidades para crescer como desenvolvedor, contribuir com soluções criativas e aprender com a comunidade.<br/>
